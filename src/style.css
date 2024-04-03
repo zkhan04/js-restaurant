@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Freaky';
+    src: url('./assets/papyrus.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+* {
+    font-family: 'Freaky';
+    font-size: 40px;
+}
+
+button {
+    font-family: 'Freaky';
+    background-color: lavender;
+}
